@@ -1,1 +1,2 @@
 # Progetto-TypeScript
+Lo scopo di questo progetto è quello di creare con typescript una simulazione di un'azienda che si occupa di mobilità green nelle città. Aggiunge tipi di mezzi all'interno di una possibile città e permette di controllare se quel mezzo è in uso o è disponibile, in tal caso un utente può prenotarlo e scegliere il tipo di pagamento preferito
